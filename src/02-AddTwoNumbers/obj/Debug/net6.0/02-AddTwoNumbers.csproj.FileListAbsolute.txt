@@ -1,0 +1,15 @@
+C:\Users\NBZY78001242\Desktop\Leetcode\src\02-AddTwoNumbers\bin\Debug\net6.0\02-AddTwoNumbers.exe
+C:\Users\NBZY78001242\Desktop\Leetcode\src\02-AddTwoNumbers\bin\Debug\net6.0\02-AddTwoNumbers.deps.json
+C:\Users\NBZY78001242\Desktop\Leetcode\src\02-AddTwoNumbers\bin\Debug\net6.0\02-AddTwoNumbers.runtimeconfig.json
+C:\Users\NBZY78001242\Desktop\Leetcode\src\02-AddTwoNumbers\bin\Debug\net6.0\02-AddTwoNumbers.dll
+C:\Users\NBZY78001242\Desktop\Leetcode\src\02-AddTwoNumbers\bin\Debug\net6.0\02-AddTwoNumbers.pdb
+C:\Users\NBZY78001242\Desktop\Leetcode\src\02-AddTwoNumbers\obj\Debug\net6.0\02-AddTwoNumbers.csproj.AssemblyReference.cache
+C:\Users\NBZY78001242\Desktop\Leetcode\src\02-AddTwoNumbers\obj\Debug\net6.0\02-AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NBZY78001242\Desktop\Leetcode\src\02-AddTwoNumbers\obj\Debug\net6.0\02-AddTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\NBZY78001242\Desktop\Leetcode\src\02-AddTwoNumbers\obj\Debug\net6.0\02-AddTwoNumbers.AssemblyInfo.cs
+C:\Users\NBZY78001242\Desktop\Leetcode\src\02-AddTwoNumbers\obj\Debug\net6.0\02-AddTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\NBZY78001242\Desktop\Leetcode\src\02-AddTwoNumbers\obj\Debug\net6.0\02-AddTwoNumbers.dll
+C:\Users\NBZY78001242\Desktop\Leetcode\src\02-AddTwoNumbers\obj\Debug\net6.0\refint\02-AddTwoNumbers.dll
+C:\Users\NBZY78001242\Desktop\Leetcode\src\02-AddTwoNumbers\obj\Debug\net6.0\02-AddTwoNumbers.pdb
+C:\Users\NBZY78001242\Desktop\Leetcode\src\02-AddTwoNumbers\obj\Debug\net6.0\02-AddTwoNumbers.genruntimeconfig.cache
+C:\Users\NBZY78001242\Desktop\Leetcode\src\02-AddTwoNumbers\obj\Debug\net6.0\ref\02-AddTwoNumbers.dll
